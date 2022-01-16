@@ -1,4 +1,20 @@
-// Assignment code here
+//ASSIGNMENT CODE HERE
+
+/*CONSTANTS & VARIABLES*/
+
+//Character Type Options 
+var lowercase = "abcdefghijklmnopqrstuvwxyz";
+var uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var numeric = "0123456789";
+var special = "!@#$%^&*_-+=";
+
+
+//DOM Elements
+var passwordText = document.getElementById("password");
+var generateBtn = document.getElementById("generate");
+
+
+
 
 
 // Get references to the #generate element
