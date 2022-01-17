@@ -65,6 +65,11 @@
           return generatePassword();
         }
 
+        else {
+          window.alert ("Password length must be 8 to 128 characters.");
+          return generatePassword();
+        }
+
     
 
       // 2. Select Lowercase Criteria
