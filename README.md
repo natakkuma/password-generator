@@ -1,4 +1,4 @@
-# Password Generatir
+# Random Password Generator
 
 <h2>Purpose</h2>
 An online password generator that allows the user to select character criteria to include uppercase, lowercase, numeric, or special characters and generate a random password between 8 - 128 characters. 
