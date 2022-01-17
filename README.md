@@ -5,7 +5,7 @@ An online password generator that allows the user to select character criteria t
 
 <h2>Built With</h2>
 <ul>
-<li>JavaScript>
+<li>JavaScript
 </ul>
   
 <h2>Website</h2>
